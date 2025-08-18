@@ -1,2 +1,2 @@
 requests==2.32.4
-gunicorn
+gunicorn==21.2.0
